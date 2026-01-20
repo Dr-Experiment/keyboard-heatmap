@@ -1,3 +1,5 @@
+#the minimal source code of the executable in order to keep file size small enough to upload
+
 import tkinter as tk
 import tkinter.font as tkf
 import keyboardlayout as kl
@@ -67,3 +69,4 @@ def update_gui():
 
 update_gui()
 window.mainloop()
+
