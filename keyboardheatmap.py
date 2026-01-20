@@ -1,3 +1,6 @@
+#main source code
+#not available as an executable to size limits on file uploads
+
 import tkinter as tk
 import tkinter.font as tkf
 import keyboardlayout as kl
@@ -66,3 +69,4 @@ def update_gui():
 start_listener()
 update_gui()
 window.mainloop()
+
