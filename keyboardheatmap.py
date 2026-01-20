@@ -66,5 +66,3 @@ def update_gui():
 start_listener()
 update_gui()
 window.mainloop()
-
-#i will go submit when the timer gets to 2h 10 mins
